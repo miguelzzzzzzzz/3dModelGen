@@ -1,6 +1,6 @@
 
 
-# 3D Model Geberator
+# 3D Model Generator
 
 This repository contains a Python script that allows you to adjust and generate a 3D model using the SMPL (Skinned Multi-Person Linear) model. The script uses Pyrender for visualization and Tkinter for creating a simple GUI for adjusting the model's parameters.
 
