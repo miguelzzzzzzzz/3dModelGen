@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ```
 
 3. Download the SMPL model files and extract them. Update the `model_path` variable in the script with the path to the `.pkl` file of the desired model.
-
+https://download.is.tue.mpg.de/download.php?domain=smpl&sfile=SMPL_python_v.1.1.0.zip
 ## Usage
 
 Run the script:
