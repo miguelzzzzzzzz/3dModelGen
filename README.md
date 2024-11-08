@@ -1,8 +1,8 @@
 
 
-# 3D Model Adjustment Tool
+# 3D Model Geberator
 
-This repository contains a Python script that allows you to adjust the shape and orientation of a 3D model using the SMPL (Skinned Multi-Person Linear) model. The script uses Pyrender for visualization and Tkinter for creating a simple GUI for adjusting the model's parameters.
+This repository contains a Python script that allows you to adjust and generate a 3D model using the SMPL (Skinned Multi-Person Linear) model. The script uses Pyrender for visualization and Tkinter for creating a simple GUI for adjusting the model's parameters.
 
 ## Prerequisites
 
